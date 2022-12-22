@@ -23,9 +23,8 @@ Interfaz web administrativa para el marketplace
 API REST para acciones administrativas y usado como proxy para las llamadas a servicios de terceros (con el fin de mantener secretas las claves de acceso en el servidor y no de forma pública en el frontend).
 
 ## Instalación
-Instrucciones en el siguiente archivo:
 
-[SETUP.md](../SETUP.md)
+[SETUP.md](https://github.com/sm-marketplace/.github/blob/main/SETUP.md)
 
 ## Gestión del proyecto
 
